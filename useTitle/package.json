@@ -1,0 +1,27 @@
+{
+  "name": "@bluecandle-react/hooks-use-title",
+  "version": "1.0.0",
+  "description": "update document title with react hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluecandle/react-hooks-basics.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "title"
+  ],
+  "author": "jinyeongkim (jinyeongkim37@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluecandle/react-hooks-basics/issues"
+  },
+  "homepage": "https://github.com/bluecandle/react-hooks-basics#readme",
+  "peerDependencies": {
+    "react": "^16.13.0"
+  }
+}

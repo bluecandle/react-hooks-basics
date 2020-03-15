@@ -1,0 +1,28 @@
+{
+  "name": "@bluecandle-react/hooks-use-axios",
+  "version": "1.0.0",
+  "description": "use axios with react hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluecandle/react-hooks-basics.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "axios"
+  ],
+  "author": "jinyeongkim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluecandle/react-hooks-basics/issues"
+  },
+  "homepage": "https://github.com/bluecandle/react-hooks-basics#readme",
+  "peerDependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.0"
+  }
+}
